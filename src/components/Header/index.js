@@ -14,7 +14,7 @@ export default function Header() {
       <Container>
           <Top>  
               <Logo source={logo}/>            
-              <Title><Text>Elvis Huges</Text></Title>
+              <Title><Text>Elvis</Text></Title>
           </Top>
           <Icon name="keyboard-arrow-down" size={20} color="#FFF" />
       </Container>
